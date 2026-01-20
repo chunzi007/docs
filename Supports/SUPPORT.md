@@ -4,8 +4,8 @@ If you have any questions, feedback, or need assistance with our apps, please co
 
 ## Contact Us
 
-*   **Email:** [Your Email Address]
-*   **Website:** [Your Website URL]
+*   **Email:** chunzi2023@gmail.com
+*   **Website:** https://github.com/chunzi007
 
 ## Frequently Asked Questions (FAQ)
 
