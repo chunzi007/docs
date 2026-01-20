@@ -2,7 +2,7 @@
 
 **Effective Date:** January 4, 2026
 
-By downloading or using the **Chronicle** app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app.
+By downloading or using the **Application**, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app.
 
 ## 1. License
 
