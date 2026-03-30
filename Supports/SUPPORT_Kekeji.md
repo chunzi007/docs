@@ -1,57 +1,58 @@
-# 可可记 技术支持与常见问题
+# Kekeji Support & FAQ
 
-如果你在使用“可可记”过程中遇到任何问题，欢迎通过以下方式联系我们。我们会尽快回复并协助处理。
+If you run into any issues while using Kekeji, feel free to contact us. We’ll respond as soon as possible.
 
-## 联系我们
+## Contact
 
-- 邮箱：ifeedback@gmail.com
+- Email: ifeedback@gmail.com
 
-## 常见问题（FAQ）
+## FAQ
 
-### 1) 我的数据存储在哪里？
+### 1) Where is my data stored?
 
-本应用以本地存储为主。你记录的账本数据通常保存在你的设备本地应用沙盒中。我们不会将你的账本内容上传到我们的服务器。
+The App is primarily local-first. Your data is typically stored in the App sandbox on your device. We do not upload your ledger content to our servers unless you explicitly export/import or use system backup features.
 
-### 2) 如何备份/迁移数据？
+### 2) How do I back up or migrate my data?
 
-你可以在“设置”中使用：
+In Settings, you can use:
 
-- 导出 JSON 备份：将账本数据导出为备份文件（由你选择保存位置）
-- 导入 JSON 备份：从你选择的备份文件恢复数据
+- Export JSON backup: export your data to a backup file (you choose where to save it)
+- Import JSON backup: restore from a backup file you select
 
-同时建议你开启 iCloud 设备备份，以防设备丢失或更换设备。
+We also recommend enabling iCloud device backup in iOS to protect against device loss.
 
-### 3) 删除的数据可以恢复吗？
+### 3) Can deleted data be restored?
 
-如果你在应用内删除了数据，通常无法直接恢复。你可以尝试从你之前导出的备份文件或系统备份中恢复。
+If you delete data inside the App, it usually cannot be restored. You may restore from a previously exported backup file or from a system backup if available.
 
-### 4) 广告/解锁相关问题
+### 4) Ads / unlocking questions
 
-- 高级统计为可选增强功能，不影响核心记账与基础统计使用。
-- 若激励视频加载失败，可稍后重试或检查网络连接。
+- Advanced stats are optional enhancements and do not affect the App’s core features.
+- If a rewarded video fails to load or play, try again later or check your network connection.
 
-### 5) 为什么会提示“跟踪权限（ATT）”？
+### 5) Why do I see the App Tracking Transparency (ATT) prompt?
 
-本应用可能会请求 iOS 系统的“App 跟踪透明度（ATT）”授权，用于广告归因与减少无关广告。你可以选择同意或拒绝；无论你是否同意，均不影响本应用的核心记账与基础统计功能使用。
+The App may request ATT permission for ad attribution and to reduce irrelevant ads. You can allow or deny it. Denying permission does not affect the App’s core features.
 
-### 6) 如何反馈问题？
+### 6) How do I manage subscriptions / recurring bills?
 
-请通过邮箱联系我们，并尽量提供以下信息以便更快定位：
+- On the Home screen, tap “Manage list” to view your subscriptions/recurring bills
+- You can enable/disable items from the list
+- Use “Add subscription/fixed expense” to create a new item
 
-- iPhone 机型、iOS 版本
-- 应用版本号
-- 问题发生步骤与截图（如有）
- 
-### 7) 如何管理订阅/固定开销？
- 
-- 在首页点击“管理清单”，可查看订阅/固定开销列表
-- 可在列表中启用/停用条目
-- 可通过“添加订阅/固定开销”新增条目
- 
-### 8) 订阅到期后为什么会自动生成记录？
- 
-本应用支持根据你设置的订阅/固定开销周期，在到期时生成对应记录，以便你回溯每次扣费情况。你可在记录列表中查看、编辑或删除相关记录。
- 
-### 9) 演示数据是什么？如何清理？
- 
-为便于上手与截图，应用可能提供演示数据。你可以在“设置 > 演示”中清理或重新生成演示数据。
+### 7) Why are records generated automatically when a bill is due?
+
+The App can generate a record when a subscription/recurring bill reaches its due date based on the recurrence you set, so you can track charges over time. You can view, edit, or delete these records in the list.
+
+### 8) What is demo data and how do I remove it?
+
+Demo data is provided to help you explore the App and create better screenshots. You can clear or regenerate demo data in Settings > Demo.
+
+### 9) How do I report a problem?
+
+Please email us and include:
+
+- iPhone model and iOS version
+- App version
+- Steps to reproduce
+- Screenshots/screen recordings (if available)
