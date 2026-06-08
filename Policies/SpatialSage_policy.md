@@ -1,8 +1,8 @@
-SpatialSense ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how our application handles your information.
+SpatialSage ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how our application handles your information.
 
 ### 1. Information We Collect
 
-SpatialSense accesses the following device sensors and data solely for in-app training functionality:
+SpatialSage accesses the following device sensors and data solely for in-app training functionality:
 
 - **Location Services**: Used for spatial awareness training. Location data is processed in real-time on your device and is never stored, transmitted, or shared.
 - **Magnetometer (Compass)**: Used for direction-finding training exercises.
@@ -21,7 +21,7 @@ We do not share, sell, or disclose any of your data to third parties. Since all 
 
 ### 4. Children's Privacy
 
-SpatialSense does not knowingly collect personal information from children under the age of 13.
+SpatialSage does not knowingly collect personal information from children under the age of 13.
 
 ### 5. Changes to This Policy
 
